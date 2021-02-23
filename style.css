@@ -5,8 +5,7 @@
 }
 
 body {
-	background-color: #3B3B98;
-	color: #fff;
+	color: #242B2E;
 	display: flex;
 	font-family: 'Muli', sans-serif;
 	flex-direction: column;
@@ -30,11 +29,11 @@ input[type=checkbox] {
 }
 
 .container {
-	background-color: #23235B;
+	background-color: #E5D68A;
 	box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
 	padding: 20px;
 	width: 350px;
-	
+	border-radius: 5px;
 	max-width: 100%;
 }
 
@@ -51,6 +50,7 @@ input[type=checkbox] {
 	padding: 12px 10px;
 	height: 50px;
 	width: 100%;
+	border-radius: 4px;
 }
 
 .result-container #result {
@@ -73,7 +73,8 @@ input[type=checkbox] {
 	cursor: pointer;
 	font-size: 16px;
 	padding: 8px 12px;
-	background-color: #3B3B98;
+	background-color: #46B2E0;
+	border-radius: 5px;
 }
 
 .btn-large {
@@ -87,6 +88,7 @@ input[type=checkbox] {
 	align-items: center;
 	margin: 15px 0;
 }
+
 
 @media screen and (max-width: 400px) {
 	.result-container {
