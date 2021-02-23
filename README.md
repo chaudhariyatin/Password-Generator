@@ -4,7 +4,7 @@ Built with Javascript.
 
 # Demo
 
-Demo ![here](https://vibrant-kowalevski-53bbc3.netlify.app/)
+Demo [here](https://vibrant-kowalevski-53bbc3.netlify.app/)
 
 # How it works
 
